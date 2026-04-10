@@ -1,0 +1,8 @@
+[package]
+name = "mu"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "mu"
+path = "src/main.rs"
